@@ -2,7 +2,7 @@
 
 ---
 
-# Привет, меня зовут Нура! 👋
+# Привет, меня зовут Нура!
 
 ### 🧪 Обо мне:
 
@@ -60,7 +60,7 @@
 ### 📌 Полезные ссылки:
 
 - [📄 Мое резюме на hh.ru](https://hh.ru/resume/2f5d934bff10ebbcbf0039ed1f783250426868?hhtmFrom=applicant_profile)
-- [🎓 Сертификаты](./certificates) — подтверждение пройденных курсов (если есть)
+- [🎓 Сертификат QA Engineer](./certificates/certificate_qa_engineer.png)
 
 ---
 
