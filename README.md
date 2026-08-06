@@ -60,7 +60,7 @@
 ### 📌 Полезные ссылки:
 
 - [📄 Мое резюме на hh.ru](https://hh.ru/resume/2f5d934bff10ebbcbf0039ed1f783250426868?hhtmFrom=applicant_profile)
-- [🎓 Сертификат QA Engineer](./certificates/certificate_qa_engineer.png)
+- [🎓 Сертификат QA Engineer](./certificate_qa.pdf)
 
 ---
 
