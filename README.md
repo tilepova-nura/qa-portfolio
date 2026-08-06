@@ -1,3 +1,7 @@
+![Header](header.png)
+
+---
+
 # Привет, меня зовут Нура! 👋
 
 ### 🧪 Обо мне:
@@ -12,8 +16,8 @@
 
 ### 📫 Как связаться со мной:
 
-[![Telegram Badge](https://img.shields.io/badge/-@[ваш_логин]-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NuraTilepova) 
-[![Gmail Badge](https://img.shields.io/badge/-[ваша_почта]-red?style=flat&logo=Gmail&logoColor=white)](mailto:tilepovanura@gmail.com) 
+[![Telegram Badge](https://img.shields.io/badge/-@NuraTilepova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NuraTilepova) 
+[![Gmail Badge](https://img.shields.io/badge/-tilepovanura@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:tilepovanura@gmail.com) 
 [![GitHub Badge](https://img.shields.io/badge/-NuraTilepova-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/NuraTilepova)
 
 ---
