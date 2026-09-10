@@ -24,6 +24,6 @@
 **Приоритет:** Medium
 **Окружение:** Все браузеры, пользователь visual_user
 
-**Скриншот:** BUG-44_screenshot.png
+**Скриншот:** [BUG-44_screenshot.png](../screenshots/BUG-44_screenshot.png)
 
-**Связанные задачи:** TC-09, Чек-лист №6 (проверка 4.6)
+**Связанные задачи:** [TC-09](../test-cases/TC-09.md), [Чек-лист №6](../checklists/checklist-06-cart.md) (проверка 4.6)
