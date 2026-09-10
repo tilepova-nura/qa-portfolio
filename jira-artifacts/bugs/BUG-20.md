@@ -17,7 +17,4 @@
 **Серьёзность:** Trivial
 **Приоритет:** Low
 **Окружение:** Все браузеры
-
-**Скриншот:** [BUG-20_screenshot.png](../screenshots/BUG-20_screenshot.png)
-
 **Связанные задачи:** [IMP-26](../improvements/IMP-26.md), [Чек-лист №3](../checklists/checklist-03-products.md) (проверка 2.7)
