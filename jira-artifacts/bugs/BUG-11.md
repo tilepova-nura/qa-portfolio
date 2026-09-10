@@ -20,6 +20,8 @@ markdown
     padding: 20px 34px 20px 20px;
     display: flex;
 }
+```
+
 Использование justify-content: space-between в мобильной версии создаёт избыточное расстояние между элементами.
 
 Ожидаемый результат:
