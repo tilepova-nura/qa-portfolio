@@ -19,4 +19,4 @@
 
 **Видео:** [BUG-01_video.mp4](../screenshots/BUG-01_video.mp4)
 
-**Связанные задачи:** TC-07, Чек-лист №2 (проверка 1.3)
+**Связанные задачи:** [TC-07](../test-cases/TC-07.md), [Чек-лист №2](../checklists/checklist-02-auth-ui.md) (проверка 1.3)
