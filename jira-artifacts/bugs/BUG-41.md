@@ -22,6 +22,6 @@
 **Приоритет:** Medium
 **Окружение:** Все браузеры, пользователь visual_user
 
-**Скриншот:** BUG-41_screenshot.png
+**Скриншот:** [BUG-41_screenshot.png](../screenshots/BUG-41_screenshot.png)
 
-**Связанные задачи:** TC-09, Чек-лист №2 (проверка 1.19)
+**Связанные задачи:** [TC-09](../test-cases/TC-09.md), [Чек-лист №2](../checklists/checklist-02-auth-ui.md) (проверка 1.19)
