@@ -17,3 +17,16 @@
     margin-top: auto;
     position: relative;
 }
+```
+Вероятно, отсутствует width: 100% или display: block сбивается на планшетных разрешениях.
+
+**Ожидаемый результат:**
+Футер должен занимать 100% ширины экрана при любом разрешении.
+
+**Серьёзность:** Minor
+**Приоритет:** Medium
+**Окружение:** Chrome DevTools, планшетные разрешения (465–900px)
+
+**Скриншот:** [BUG-19_screenshot.png](../screenshots/BUG-19_screenshot.png)
+
+**Связанные задачи:** [TC-19](../test-cases/TC-19.md), [Чек-лист №8](../checklists/checklist-08-mobile.md) (проверка 3.4)
