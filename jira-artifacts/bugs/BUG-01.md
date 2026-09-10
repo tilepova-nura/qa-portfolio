@@ -17,6 +17,6 @@
 **Приоритет:** High
 **Окружение:** Google Chrome v120, Windows 11
 
-**Видео:** [BUG-01_video.mp4](../screenshots/BUG-01_video.mp4)
+**Видео:** [Посмотреть на Screencastify](https://app.screencastify.com/watch/UxojTPnUmgmDTbzwfOCf)
 
 **Связанные задачи:** [TC-07](../test-cases/TC-07.md), [Чек-лист №2](../checklists/checklist-02-auth-ui.md) (проверка 1.3)
